@@ -1,1 +1,1 @@
-![image](![image](https://github.com/beaudar-bot/beaudar-bot/blob/master/dino.gif)./dino.gif)
+![image](https://github.com/beaudar-bot/beaudar-bot/blob/master/dino.gif)
